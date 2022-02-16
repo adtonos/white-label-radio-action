@@ -1,0 +1,5 @@
+conditionalEvents:
+- condition: "True"
+  transitionToScene: actions.scene.END_CONVERSATION
+onEnter:
+  webhookHandler: start_media

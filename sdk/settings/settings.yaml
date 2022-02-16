@@ -1,0 +1,13 @@
+category: MUSIC_AND_AUDIO
+defaultLocale: en
+localizedSettings:
+  developerEmail: support@adtonos.com
+  developerName: AdTonos Support
+  displayName: Audio App
+  fullDescription: "Audio App is the perfect action to play your favorite radio station on your smart speaker, just say \"Ok Google, talk to Audio App.\""
+  privacyPolicyUrl: https://www.adtonos.com/service-privacy-policy/
+  pronunciation: Audio App
+  shortDescription: Audio App
+  smallLogoImage: 
+  termsOfServiceUrl: https://www.adtonos.com/publisher-terms/
+projectId: "audio-app-94075"

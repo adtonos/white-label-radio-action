@@ -1,0 +1,4 @@
+handlers:
+- name: start_media
+httpsEndpoint:
+  baseUrl: https://yours-truly.adtonos.com/fulfillment
